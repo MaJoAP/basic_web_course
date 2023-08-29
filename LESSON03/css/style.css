@@ -1,0 +1,34 @@
+h1 {
+  color: #c1121f;
+  text-align: center;
+  
+}
+p {
+  color: #fdf0d5;
+  background-color: #003049;
+  padding: 15px;
+  border: 10px solid #669bbc;
+  /* margin-top: 40px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px; */
+  margin:auto 50px;
+  text-align: center;
+  
+}
+
+/* .title2 {
+  color: red;
+  background-color: lavender;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: 0px;
+} */
